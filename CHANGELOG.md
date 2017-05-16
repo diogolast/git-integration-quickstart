@@ -1,3 +1,26 @@
+<a name="1.1.0-rc.0"></a>
+# 1.1.0-rc.0 (2017-05-16)
+
+
+### Bug Fixes
+
+* **teste:** removido linha desnecessária ([056f4df](https://github.com/diogolast/git-integration-quickstart/commit/056f4df))
+
+
+### Features
+
+* **arquivo:** adicionado conteudo ([f8790f5](https://github.com/diogolast/git-integration-quickstart/commit/f8790f5))
+* **config:** geral ([e8dfe48](https://github.com/diogolast/git-integration-quickstart/commit/e8dfe48))
+* **config:** teste ([11be3b9](https://github.com/diogolast/git-integration-quickstart/commit/11be3b9))
+* **config:** teste ([b336b38](https://github.com/diogolast/git-integration-quickstart/commit/b336b38))
+* **main:** adicionado itens do curso ([eb5102c](https://github.com/diogolast/git-integration-quickstart/commit/eb5102c))
+* **release.sh:** teste de versao ([ee1b74d](https://github.com/diogolast/git-integration-quickstart/commit/ee1b74d))
+* **release.sh:** teste de versao ([165c821](https://github.com/diogolast/git-integration-quickstart/commit/165c821))
+* **teste:** adicionado texto no teste ([b95873d](https://github.com/diogolast/git-integration-quickstart/commit/b95873d))
+* **teste:** ajuste no teste ([fdf9f19](https://github.com/diogolast/git-integration-quickstart/commit/fdf9f19))
+
+
+
 <a name="1.9.0"></a>
 # [1.9.0](https://github.com/claytonsilva/git-integration-quickstart/compare/v1.9.0-rc.1...v1.9.0) (2017-05-15)
 
